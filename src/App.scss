@@ -13,12 +13,13 @@
 
 .app__box {
     padding: 20px;
-    background: #ddd;
+    background: white;
     display: flex;
     align-items: center;
     flex-direction: column;
     justify-content: center;
     border: 1px solid black;
+    border-radius: 10px;
     gap: 35px;
 }
 
