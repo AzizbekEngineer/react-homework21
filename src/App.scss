@@ -1,0 +1,30 @@
+.app {
+    margin-top: 150px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.app__title {
+    font-size: 48px;
+    color: red;
+}
+
+.app__box {
+    padding: 20px;
+    background: #ddd;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    border: 1px solid black;
+    gap: 35px;
+}
+
+.counter__btns {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
